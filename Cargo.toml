@@ -2,6 +2,10 @@
 name = "chaining"
 version = "0.1.0"
 edition = "2021"
+description = "Adds chaining methods `tap` and `pipe` to every type"
+license = "Unlicense"
+
+repository = "https://github.com/plippe/chaining"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
